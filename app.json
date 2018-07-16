@@ -2,8 +2,14 @@
   "expo": {
     "name": "chat-app",
     "sdkVersion": "27.0.0",
-    "appicon": "appicon_1024.png",
+    "icon": "./appicon_1024.png",
     "version": "1.0.0",
-    "slug": "chat-app"
+    "slug": "chat-app",
+    "ios": {
+      "bundleIdentifier": "com.hayo0914.chatapp"
+    },
+    "android": {
+      "package": "com.hayo0914.chatapp"
+    }
   }
 }
