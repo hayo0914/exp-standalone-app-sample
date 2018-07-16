@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "chat-app",
+    "sdkVersion": "27.0.0",
+    "appicon": "appicon_1024.png",
+    "version": "1.0.0",
+    "slug": "chat-app"
+  }
+}
