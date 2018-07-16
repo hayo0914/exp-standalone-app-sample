@@ -6,10 +6,10 @@
     "version": "1.0.0",
     "slug": "chat-app",
     "ios": {
-      "bundleIdentifier": "com.hayo0914.chatapp"
+      "bundleIdentifier": "com.hayo0914.pecti"
     },
     "android": {
-      "package": "com.hayo0914.chatapp"
+      "package": "com.hayo0914.pecti"
     }
   }
 }
